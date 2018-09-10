@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title></title>
+        <title>CST 336 demo</title>
     </head>
     <body>
         
