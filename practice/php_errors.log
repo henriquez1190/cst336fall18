@@ -1,0 +1,7 @@
+[12-Sep-2018 20:10:38 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/work/practice/php/name.php on line 15
+[12-Sep-2018 20:29:44 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/work/practice/php/practice.php on line 11
+[12-Sep-2018 20:30:33 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/work/practice/php/practice.php on line 11
+[12-Sep-2018 20:30:35 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/work/practice/php/practice.php on line 11
+[12-Sep-2018 20:30:37 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/work/practice/php/practice.php on line 11
+[12-Sep-2018 20:32:11 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/work/practice/php/practice.php on line 11
+[14-Sep-2018 19:31:24 UTC] PHP Parse error:  syntax error, unexpected '$numOfKids' (T_VARIABLE) in /home/ubuntu/workspace/work/practice/php/practicePhp.php on line 3
